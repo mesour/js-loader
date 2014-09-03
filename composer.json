@@ -1,7 +1,7 @@
 {
-	"name": "mesour/jsapplication",
-	"description": "Mesour JsApplication",
+	"name": "mesour/jsloader",
+	"description": "Mesour JsLoader",
 	"autoload": {
-		"classmap": ["src/"]
+		"classmap": ["JsLoader/"]
 	}
 }
